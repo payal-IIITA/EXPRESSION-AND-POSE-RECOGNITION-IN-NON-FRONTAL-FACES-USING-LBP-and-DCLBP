@@ -1,0 +1,34 @@
+	What's New in JPEG Resizer?
+	===========================
+
+JPEG Resizer 2.1
+ * Completely new resizing algorithm
+ * Added support for Drag and Drop
+ * Safer file adding method
+ * Improved incremental file naming
+ * Log is scrolled down automatically
+ * Added file counter
+ * Fixed a typo
+ * Ships with JPEG Resizer CMD 0.1
+
+JPEG Resizer 2.04
+ * Got Incremental File Naming working
+
+JPEG Resizer 2.02
+ * Saves Settings to HKEY_CURRENT_USER on exit
+ * Loads saved settings on start (use /noload to prevent this)
+
+JPEG Resizer 2.0
+ * New, cleaner design
+ * Ability to add whole Directories to Resizing List
+ * Size can be set by percentage now
+ * Integrated 'About'-Information into MainForm
+ * Cleaned up some code
+ * Ability to specify the JPEG Compression Factor
+ * Ability to overwrite source files with resized JPEGs
+ * Antialiasing
+ * Ability to colorize JPEGs
+ * New Process Window, integrated into MainForm
+
+JPEG Resizer 1.0
+ * Initial Release

@@ -1,0 +1,7 @@
+1) For practical application of an expression recognition system training should not require high resolution images clicked in 
+constrained environments. The system should be such that it works even on normal phone cameras.
+2) Further research on how to incorporate expression recognition systems in real-life scenarios ie., extending the project to real-time facial expression recognition.
+3) For incorporating continuous pose classification training should be done by generating continuous angles using 3D Face Modelling.
+4) Training subjects should include people from different age groups. Training is especially important for elderly subjects due to
+the confusion introduced by wrinkles and furrows in facial features.
+5) Better accuracy on the pictures clicked from normal mobile phones should be achieved.
